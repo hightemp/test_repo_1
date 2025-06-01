@@ -53,6 +53,7 @@
 
 ### Мониторинг киберугроз
 
+- [https://www.surveillancewatch.io/](https://www.surveillancewatch.io/) - интерактивная карта ведущих вендоров Surveillance as Service (215 сущностей). Представлен в трех режимах: список самих вендоров, список стран-объектов слежки/шпионажа, и организации, финансирующие данных вендоров (98 сущностей). Домен зарегистрирован 25.05.2024, первые снимки в Wayback Machine появились 12.08.2024.
 - [https://cybermap.kaspersky.com](https://cybermap.kaspersky.com) - интерактивная карта киберугроз от Kaspersky Lab.
 - [https://malwarehunters.org](https://malwarehunters.org) - веб-ресурс для обнаружения и исследования вредоносных програм c дашбордом.
 - [https://www.fireeye.com/cyber-map/threat-map.html](https://www.fireeye.com/cyber-map/threat-map.html) - интерактивная карта мировых киберугроз от FireEye.
